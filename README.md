@@ -1,2 +1,2 @@
 # practica_github
-participante Mariana
+participante Marianafv
